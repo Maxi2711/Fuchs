@@ -1,4 +1,8 @@
-[ ] QuestionsChannelID  int
-[ ] Prefix      [str]
-[ ] AskPrefix   [str]
-[ ] Questions   {"User_ID", "User_Name", "User_Discri","Answered","ReadByMod", "Content","Notes"}
+[ ] Config: 
+    [ ] adding add and remove functions for questions 
+    [ ] adding statistics
+[ ] Adding Command class for costum commands
+    [ ] Adding Bot commands for adding, editing and removing a command
+    [ ] Generating the extra code
+[ ] Help command, that can generate based on Config
+[ ]
