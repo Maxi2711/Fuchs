@@ -6,4 +6,4 @@ Currently I am working on implementing the back end for the bot. I want to make 
 
 
 
-The bots interface will differ wildly from the other bots, because I am not going to make a webtools for it. Every interaction will for now be only through discord itself, either through private messages or through the server in question itself.
+The bots interface will differ wildly from the other bots, because I am not going to make webtools for it (atleast at the moment). Every interaction will for now be only through discord itself, either through private messages or through the server in question itself.
