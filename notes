@@ -1,0 +1,4 @@
+[ ] QuestionsChannelID  int
+[ ] Prefix      [str]
+[ ] AskPrefix   [str]
+[ ] Questions   {"User_ID", "User_Name", "User_Discri","Answered","ReadByMod", "Content","Notes"}
